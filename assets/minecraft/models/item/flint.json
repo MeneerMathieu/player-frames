@@ -19,6 +19,9 @@
   { "predicate": {"custom_model_data": 11}, "model": "customplayer/unwin"},
   { "predicate": {"custom_model_data": 12}, "model": "customplayer/eragaurd"},
   { "predicate": {"custom_model_data": 13}, "model": "customplayer/themysticalmarv"},
-  { "predicate": {"custom_model_data": 14}, "model": "customplayer/xyoto_prime"}
+  { "predicate": {"custom_model_data": 14}, "model": "customplayer/xyoto_prime"},
+  { "predicate": {"custom_model_data": 15}, "model": "customplayer/titanicfog"},
+  { "predicate": {"custom_model_data": 16}, "model": "customplayer/xorizontal"},
+  { "predicate": {"custom_model_data": 17}, "model": "customplayer/craft49er"}
  ]
 }
