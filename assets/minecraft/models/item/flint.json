@@ -11,6 +11,14 @@
   { "predicate": {"custom_model_data": 3}, "model": "customplayer/squibs__"},
   { "predicate": {"custom_model_data": 4}, "model": "customplayer/theai"},
   { "predicate": {"custom_model_data": 5}, "model": "customplayer/fury_101"},
-  { "predicate": {"custom_model_data": 6}, "model": "customplayer/malino05"}
+  { "predicate": {"custom_model_data": 6}, "model": "customplayer/malino05"},
+  { "predicate": {"custom_model_data": 7}, "model": "customplayer/tallpup"},
+  { "predicate": {"custom_model_data": 8}, "model": "customplayer/nettakrim"},
+  { "predicate": {"custom_model_data": 9}, "model": "customplayer/grimmauld"},
+  { "predicate": {"custom_model_data": 10}, "model": "customplayer/splashbrotherbe"},
+  { "predicate": {"custom_model_data": 11}, "model": "customplayer/unwin"},
+  { "predicate": {"custom_model_data": 12}, "model": "customplayer/eragaurd"},
+  { "predicate": {"custom_model_data": 13}, "model": "customplayer/themysticalmarv"},
+  { "predicate": {"custom_model_data": 14}, "model": "customplayer/xyoto_prime"}
  ]
 }
