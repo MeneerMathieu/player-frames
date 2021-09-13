@@ -1,6 +1,11 @@
 # player-frames
 Get Minecraft players with invisible item frames
 
+How to download:
+ 1. Click on the green "Code" button.
+ 2. Pick "Download ZIP"
+ 3. Done! No need to unzip anything. Just place it in your recourse pack folder
+
 How to add a player:
   1. Go to assets/minecraft/models/item/flint.json
   2. Add this line: { "predicate": {"custom_model_data": NUMBER}, "model": "customplayer/PLAYERNAME"}, where PLAYERNAME is your playername in lowercase, number is the CustomModelData ID you want to give the statue.
