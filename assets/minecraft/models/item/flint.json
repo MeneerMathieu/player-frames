@@ -1,0 +1,16 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/flint"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 0}, "model": "customplayer/steve"},
+  { "predicate": {"custom_model_data": 1}, "model": "customplayer/winniethedampoeh"},
+  { "predicate": {"custom_model_data": 2}, "model": "customplayer/bomblw"},
+  { "predicate": {"custom_model_data": 3}, "model": "customplayer/squibs__"},
+  { "predicate": {"custom_model_data": 4}, "model": "customplayer/theai"},
+  { "predicate": {"custom_model_data": 5}, "model": "customplayer/fury_101"},
+  { "predicate": {"custom_model_data": 6}, "model": "customplayer/malino05"}
+ ]
+}
