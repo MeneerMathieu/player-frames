@@ -23,6 +23,8 @@
   { "predicate": {"custom_model_data": 15}, "model": "customplayer/titanicfog"},
   { "predicate": {"custom_model_data": 16}, "model": "customplayer/xorizontal"},
   { "predicate": {"custom_model_data": 17}, "model": "customplayer/craft49er"},
-  { "predicate": {"custom_model_data": 18}, "model": "customplayer/_pusher"}
+  { "predicate": {"custom_model_data": 18}, "model": "customplayer/_pusher"},
+  { "predicate": {"custom_model_data": 19}, "model": "customplayer/flamium"},
+  { "predicate": {"custom_model_data": 20}, "model": "customplayer/hraponssi"}
  ]
 }
