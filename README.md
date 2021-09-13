@@ -4,7 +4,10 @@ Get Minecraft players with invisible item frames
 How to download:
  1. Click on the green "Code" button.
  2. Pick "Download ZIP"
- 3. Done! No need to unzip anything. Just place it in your recourse pack folder
+ 3. Unzip the file so when you open the folder the first thing you see is the pack.mcmeta file. Place the folder into your recourses folder.
+ 4. Done!
+
+
 
 How to get the items:
  - On CK (two options):
@@ -13,6 +16,8 @@ How to get the items:
  - On singleplayer:
   1. use "/give @s flint{CustomModelData:YOUR ID}" to get the item. 
 
+
+
 How to add a player:
   1. Go to assets/minecraft/models/item/flint.json
   2. Add this line: { "predicate": {"custom_model_data": NUMBER}, "model": "customplayer/PLAYERNAME"}, where PLAYERNAME is your playername in lowercase, number is the CustomModelData ID you want to give the statue.
@@ -20,6 +25,8 @@ How to add a player:
   4. Rename your copy to your playername in lowercase
   5. Open the file and change "players/steve" in line 5 to "players/PLAYERNAME"
   6. Drop your skin, named PLAYERNAME.png in assets/minecraft/textures/players/
+
+
 
 List of ID's:
 
