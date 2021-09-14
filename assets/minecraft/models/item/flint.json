@@ -41,6 +41,8 @@
   { "predicate": {"custom_model_data": 33}, "model": "customplayer/fri3dnstuff"},
   { "predicate": {"custom_model_data": 34}, "model": "customplayer/janskalvik"},
   { "predicate": {"custom_model_data": 35}, "model": "customplayer/cag2"},
-  { "predicate": {"custom_model_data": 36}, "model": "customplayer/mrcreepie101c"}
+  { "predicate": {"custom_model_data": 36}, "model": "customplayer/mrcreepie101c"},
+  { "predicate": {"custom_model_data": 37}, "model": "customplayer/vajvagyok"},
+  { "predicate": {"custom_model_data": 38}, "model": "customplayer/cistic"}
  ]
 }
