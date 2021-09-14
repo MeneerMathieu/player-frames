@@ -49,6 +49,15 @@
   { "predicate": {"custom_model_data": 41}, "model": "customplayer/eeveepro_"},
   { "predicate": {"custom_model_data": 42}, "model": "customplayer/soloswain"},
   { "predicate": {"custom_model_data": 43}, "model": "customplayer/traksag"},
-  { "predicate": {"custom_model_data": 44}, "model": "customplayer/pv_pro"}
+  { "predicate": {"custom_model_data": 44}, "model": "customplayer/pv_pro"},
+  { "predicate": {"custom_model_data": 45}, "model": "customplayer/judymarie258"},
+  { "predicate": {"custom_model_data": 46}, "model": "customplayer/lekro"},
+  { "predicate": {"custom_model_data": 47}, "model": "customplayer/usnayr"},
+  { "predicate": {"custom_model_data": 48}, "model": "customplayer/lp0320"},
+  { "predicate": {"custom_model_data": 49}, "model": "customplayer/zorua162"},
+  { "predicate": {"custom_model_data": 50}, "model": "customplayer/tiger63"},
+  { "predicate": {"custom_model_data": 51}, "model": "customplayer/godric213"},
+  { "predicate": {"custom_model_data": 52}, "model": "customplayer/crypzto"},
+  { "predicate": {"custom_model_data": 53}, "model": "customplayer/baconburrito"}
  ]
 }
