@@ -43,6 +43,12 @@
   { "predicate": {"custom_model_data": 35}, "model": "customplayer/cag2"},
   { "predicate": {"custom_model_data": 36}, "model": "customplayer/mrcreepie101c"},
   { "predicate": {"custom_model_data": 37}, "model": "customplayer/vajvagyok"},
-  { "predicate": {"custom_model_data": 38}, "model": "customplayer/cistic"}
+  { "predicate": {"custom_model_data": 38}, "model": "customplayer/cistic"},
+  { "predicate": {"custom_model_data": 39}, "model": "customplayer/eoneon"},
+  { "predicate": {"custom_model_data": 40}, "model": "customplayer/kuriku"},
+  { "predicate": {"custom_model_data": 41}, "model": "customplayer/eeveepro_"},
+  { "predicate": {"custom_model_data": 42}, "model": "customplayer/soloswain"},
+  { "predicate": {"custom_model_data": 43}, "model": "customplayer/traksag"},
+  { "predicate": {"custom_model_data": 44}, "model": "customplayer/pv_pro"}
  ]
 }
