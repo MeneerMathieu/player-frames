@@ -31,25 +31,37 @@ How to add a player:
 List of ID's:
 
  0. Steve
- 1. WinnieTheDampoeh
- 2. BombLW
- 3. Squibs__
- 4. TheAI
- 5. Fury_101
- 6. Malino05
- 7. TALLPUP
- 8. Nettakrim
- 9. Grimmauld
- 10. SplashBrotherBE
- 11. UnWin
- 12. Eragaurd
- 13. TheMysticalMarv
- 14. Xyoto_prime
- 15. TitanicFog
- 16. xorizontal
- 17. Craft49er
- 18. _Pusher
- 19. Flamium
- 20. Hraponssi
+ 1. Alex
+ 2. WinnieTheDampoeh
+ 3. BombLW
+ 4. Squibs_
+ 5. TheAI
+ 6. Fury_101
+ 7. Malino05
+ 8. TALLPUP
+ 9. Nettakrim
+ 10. Grimmauld
+ 11. SplashBrotherBE
+ 12. UnWin
+ 13. Eragaurd
+ 14. TheMysticalMarv
+ 15. Xyoto_prime
+ 16. TitanicFog
+ 17. xorizontal
+ 18. Craft49er
+ 19. _Pusher
+ 20. Flamium
+ 21. Hraponssi
+ 22. Creepanator77
+ 23. _Nikku
+ 24. Hanafield
+ 25. _tr33v0r_
+ 26. Jelly_exe
+ 27. Xeoran
+ 28. TheBreadFish
+ 29. RubenNL2
+ 30. Leiti
+ 31. JaneGleed
+ 32. Creasu
 
 Done!
