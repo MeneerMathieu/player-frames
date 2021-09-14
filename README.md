@@ -12,7 +12,7 @@ How to download:
 How to get the items:
  - On CK (two options):
   1. Go to /p v WinnieTheDampoeh 2, you will see a whole row of item frames with the statues on them. Just middle click to grab one.
-  2. Import one from singleplayer
+  2. Import one from singleplayer using saved toolbars.
  - On singleplayer:
   1. use "/give @s flint{CustomModelData:YOUR ID}" to get the item. 
 
@@ -63,5 +63,14 @@ List of ID's:
  30. Leiti
  31. JaneGleed
  32. Creasu
+ 33. Fri3dNstuff
+ 34. janskalvik
+ 35. CAG2
+ 36. MrCreepie101c
+ 37. VAJvagyok
+ 38. Cistic
+ 39. eoneon
+ 40. Kuriku
+ 41. Eeveepro_
 
 Done!
