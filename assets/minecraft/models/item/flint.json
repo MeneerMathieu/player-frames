@@ -58,6 +58,12 @@
   { "predicate": {"custom_model_data": 50}, "model": "customplayer/tiger63"},
   { "predicate": {"custom_model_data": 51}, "model": "customplayer/godric213"},
   { "predicate": {"custom_model_data": 52}, "model": "customplayer/crypzto"},
-  { "predicate": {"custom_model_data": 53}, "model": "customplayer/baconburrito"}
+  { "predicate": {"custom_model_data": 53}, "model": "customplayer/baconburrito"},
+  { "predicate": {"custom_model_data": 54}, "model": "customplayer/tacosquad"},
+  { "predicate": {"custom_model_data": 55}, "model": "customplayer/notmitchu"},
+  { "predicate": {"custom_model_data": 56}, "model": "customplayer/blameprody"},
+  { "predicate": {"custom_model_data": 57}, "model": "customplayer/yzerogame"},
+  { "predicate": {"custom_model_data": 58}, "model": "customplayer/mylimo"},
+  { "predicate": {"custom_model_data": 59}, "model": "customplayer/mexiscool"}
  ]
 }
