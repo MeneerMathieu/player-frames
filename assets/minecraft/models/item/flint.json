@@ -34,6 +34,13 @@
   { "predicate": {"custom_model_data": 26}, "model": "customplayer/jelly_exe"},
   { "predicate": {"custom_model_data": 27}, "model": "customplayer/xeoran"},
   { "predicate": {"custom_model_data": 28}, "model": "customplayer/thebreadfish"},
-  { "predicate": {"custom_model_data": 29}, "model": "customplayer/rubennl2"}
+  { "predicate": {"custom_model_data": 29}, "model": "customplayer/rubennl2"},
+  { "predicate": {"custom_model_data": 30}, "model": "customplayer/leiti"},
+  { "predicate": {"custom_model_data": 31}, "model": "customplayer/janegleed"},
+  { "predicate": {"custom_model_data": 32}, "model": "customplayer/creasu"},
+  { "predicate": {"custom_model_data": 33}, "model": "customplayer/fri3dnstuff"},
+  { "predicate": {"custom_model_data": 34}, "model": "customplayer/janskalvik"},
+  { "predicate": {"custom_model_data": 35}, "model": "customplayer/cag2"},
+  { "predicate": {"custom_model_data": 36}, "model": "customplayer/mrcreepie101c"}
  ]
 }
