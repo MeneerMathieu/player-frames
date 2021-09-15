@@ -64,6 +64,8 @@
   { "predicate": {"custom_model_data": 56}, "model": "customplayer/blameprody"},
   { "predicate": {"custom_model_data": 57}, "model": "customplayer/yzerogame"},
   { "predicate": {"custom_model_data": 58}, "model": "customplayer/mylimo"},
-  { "predicate": {"custom_model_data": 59}, "model": "customplayer/mexiscool"}
+  { "predicate": {"custom_model_data": 59}, "model": "customplayer/mexiscool"},
+  { "predicate": {"custom_model_data": 60}, "model": "customplayer/uncle_seamus"},
+  { "predicate": {"custom_model_data": 61}, "model": "customplayer/kitirto"}
  ]
 }
