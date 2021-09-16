@@ -66,6 +66,10 @@
   { "predicate": {"custom_model_data": 58}, "model": "customplayer/mylimo"},
   { "predicate": {"custom_model_data": 59}, "model": "customplayer/mexiscool"},
   { "predicate": {"custom_model_data": 60}, "model": "customplayer/uncle_seamus"},
-  { "predicate": {"custom_model_data": 61}, "model": "customplayer/kitirto"}
+  { "predicate": {"custom_model_data": 61}, "model": "customplayer/kitirto"},
+  { "predicate": {"custom_model_data": 62}, "model": "customplayer/brownie1111"},
+  { "predicate": {"custom_model_data": 63}, "model": "customplayer/melody479"},
+  { "predicate": {"custom_model_data": 64}, "model": "customplayer/logicbugs"},
+  { "predicate": {"custom_model_data": 65}, "model": "customplayer/arvidtt"}
  ]
 }
